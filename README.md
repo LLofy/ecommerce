@@ -1,3 +1,3 @@
 # ecommerce
 
-um site dinâmico em processo de criação
+um site dinâmico de loja online incompleto
